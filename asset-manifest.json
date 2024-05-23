@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/issue%20tracker/static/css/main.160773ab.css",
-    "main.js": "/issue%20tracker/static/js/main.1dc95d56.js",
-    "static/js/453.ad53d171.chunk.js": "/issue%20tracker/static/js/453.ad53d171.chunk.js",
-    "static/media/Screenshot from 2024-02-14 16-02-32.png": "/issue%20tracker/static/media/Screenshot from 2024-02-14 16-02-32.6a5663326e483c72e3ef.png",
-    "static/media/BG.png": "/issue%20tracker/static/media/BG.0805d1c579b3eb137695.png",
-    "index.html": "/issue%20tracker/index.html",
-    "main.160773ab.css.map": "/issue%20tracker/static/css/main.160773ab.css.map",
-    "main.1dc95d56.js.map": "/issue%20tracker/static/js/main.1dc95d56.js.map",
-    "453.ad53d171.chunk.js.map": "/issue%20tracker/static/js/453.ad53d171.chunk.js.map"
+    "main.css": "/issue-tracker/static/css/main.33f7fa08.css",
+    "main.js": "/issue-tracker/static/js/main.af7113fc.js",
+    "static/js/453.ad53d171.chunk.js": "/issue-tracker/static/js/453.ad53d171.chunk.js",
+    "static/media/Screenshot from 2024-02-14 16-02-32.png": "/issue-tracker/static/media/Screenshot from 2024-02-14 16-02-32.6a5663326e483c72e3ef.png",
+    "static/media/BG.png": "/issue-tracker/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/issue-tracker/index.html",
+    "main.33f7fa08.css.map": "/issue-tracker/static/css/main.33f7fa08.css.map",
+    "main.af7113fc.js.map": "/issue-tracker/static/js/main.af7113fc.js.map",
+    "453.ad53d171.chunk.js.map": "/issue-tracker/static/js/453.ad53d171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.160773ab.css",
-    "static/js/main.1dc95d56.js"
+    "static/css/main.33f7fa08.css",
+    "static/js/main.af7113fc.js"
   ]
 }
